@@ -1,0 +1,22 @@
+Administrador: Inicializacion del cajero con billetes.
+Consulta de saldo por: Manuel
+Deposito de $1000.000000 por: Manuel
+Retiro de $4350.000000 por: Manuel
+Consulta de saldo por: Manuel
+Consulta de saldo por: Manuel
+Consulta de movimientos por: Manuel
+Consulta de saldo por: Manuel
+Deposito de $1000.000000 por: Manuel
+Cambio de NIP por: Manuel
+Consulta de saldo por: Manuel
+Consulta de movimientos por: Manuel
+Deposito de $1000.000000 por: Manuel
+Retiro de $500.000000 por: Manuel
+Transferencia de $100.000000 de Manuel a Dante
+Consulta de movimientos por: Manuel
+Pago de servicio CFE de $100.000000 por: Manuel
+Consulta de movimientos por: Manuel
+Deposito de $1000.000000 por: Manuel
+Consulta de movimientos por: Manuel
+Cambio de NIP por: Manuel
+Cambio de NIP por: Manuel

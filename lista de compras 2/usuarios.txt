@@ -1,0 +1,4 @@
+admin,9999,admin
+Manuel,1234,user
+Karyme,5678,user
+Dante,9012,user

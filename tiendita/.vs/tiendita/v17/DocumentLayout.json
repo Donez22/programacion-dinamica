@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\donez\\source\\repos\\tiendita\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2DE11C96-209D-4A7F-B425-D67405C5CB78}|tiendita.vcxproj|C:\\Users\\donez\\source\\repos\\tiendita\\tiendita.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2DE11C96-209D-4A7F-B425-D67405C5CB78}|tiendita.vcxproj|solutionrelative:tiendita.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "tiendita.cpp",
+              "DocumentMoniker": "C:\\Users\\donez\\source\\repos\\tiendita\\tiendita.cpp",
+              "RelativeDocumentMoniker": "tiendita.cpp",
+              "ToolTip": "C:\\Users\\donez\\source\\repos\\tiendita\\tiendita.cpp",
+              "RelativeToolTip": "tiendita.cpp",
+              "ViewState": "AgIAAHACAAAAAAAAAAAAAHsCAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-12-16T06:58:35.651Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

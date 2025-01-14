@@ -1,0 +1,7 @@
+cocina
+higiene
+limpieza
+vestimenta
+hogar
+diversion
+otro
